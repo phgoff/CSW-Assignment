@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
 import {connect} from 'react-redux';
 import {
-    getCurriculum,
-    createCurriculum,
-    deleteCurriculum
+    getCurriculum, createCurriculum, deleteCurriculum
 } from './actions';
 
 class App extends Component {
