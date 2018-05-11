@@ -9,7 +9,7 @@ import {
 class App extends Component {
 
   state = {
-    curriculum:''
+    curriculum: ''
   }
 
   componentDidMount(){
